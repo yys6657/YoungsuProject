@@ -8,12 +8,14 @@ keyword_file stored data fomat :
 - columns name : category name
 - rows : keywords in category
 
-ex.)
+ex.) keyword_file format
 |category1|category2|
 |------|---|
 |keyword in category1|keyword in category2|
 |keyword in category1|keyword in category2|
-|keyword in category1|keyword in category2|
+|keyword in category1|keyword in category2|  
+
+### variable
 ~~~
 #Adjust the number of results
 result_count = 20 
